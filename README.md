@@ -16,7 +16,7 @@ The app is for challenge purpose
  [Live Demo](https://tvbland.web.app/)
  
 
-This project was bootstrapped with [Create React App](https://github.com/danielmarin0051/cra-template-typescript-eslint-prettier-airbnb).
+This project was bootstrapped with [TypeScript-ESLint-Prettier-Airbnb Create React App Template](https://github.com/danielmarin0051/cra-template-typescript-eslint-prettier-airbnb).
 
 ## Available Scripts
 
