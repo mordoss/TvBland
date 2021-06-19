@@ -1,6 +1,22 @@
-# Getting Started with Create React App
+# About
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The app is for challenge purpose
+
+- Features 
+ - Sort based on date and rating
+ - Pagination
+ - Interactive 3d objects
+
+- Main stack
+ - React
+ - TypeScipt
+ - styled-componenets
+ - react-three-fiber
+
+ [Live Demo](https://tvbland.web.app/)
+ 
+
+This project was bootstrapped with [Create React App](https://github.com/danielmarin0051/cra-template-typescript-eslint-prettier-airbnb).
 
 ## Available Scripts
 
