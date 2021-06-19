@@ -6,6 +6,7 @@ import React, { useRef, useState } from 'react';
 import { useFrame } from 'react-three-fiber';
 import { useGLTF } from '@react-three/drei';
 
+// component should be refactored to ts
 const Headphones = (props) => {
     const group = useRef();
     const { nodes, materials } = useGLTF(

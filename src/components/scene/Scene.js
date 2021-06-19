@@ -1,11 +1,13 @@
 /* eslint-disable @typescript-eslint/explicit-module-boundary-types */
 /* eslint-disable react/jsx-filename-extension */
+
 import React, { Suspense } from 'react';
 import { Canvas } from 'react-three-fiber';
 
 import Headphones from './Headphones';
 import Hotdog from './Hotdog';
 
+// component should be refactored to ts
 const Scene = () => {
     return (
         <div style={{ position: 'absolute', width: '100%', left: 0, zIndex: 2 }}>

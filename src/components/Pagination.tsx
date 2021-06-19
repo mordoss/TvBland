@@ -27,6 +27,7 @@ const Pagination: React.FC<PaginationProps> = ({
                     key={number}
                     isActive={number === currentPage}
                     onClick={() => {
+                        /* scrolling back to top for better UX */
                         window.scrollTo({
                             top: 0,
                             behavior: 'smooth',

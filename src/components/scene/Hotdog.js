@@ -6,6 +6,7 @@ import React, { useRef, useState } from 'react';
 import { useGLTF } from '@react-three/drei';
 import { useFrame } from 'react-three-fiber';
 
+// component should be refactored to ts
 const Hotdog = (props) => {
     const group = useRef();
     const { nodes, materials } = useGLTF(

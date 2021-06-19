@@ -48,6 +48,7 @@ const Show: React.FC = () => {
 
     const [show, setShow] = useState<IState['state']>();
 
+
     useEffect(() => {
         if (data) {
             setShow(data);
