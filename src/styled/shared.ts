@@ -52,6 +52,7 @@ const HeaderStyled = styled.div`
     width: 100vw;
     font-size: 2em;
     font-weight: 600;
+    line-height: 20%;
 `;
 
 const ChangeableSpan = styled.span<SpanProps>`

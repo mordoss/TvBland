@@ -9,7 +9,7 @@ const Header: React.FC = () => {
                 <ChangeableSpan lightToDark>TV</ChangeableSpan>
                 <ChangeableSpan lightToDark={false}>BLAND</ChangeableSpan>
                 <span style={{ fontSize: 14, fontWeight: 400 }}>
-                    Grab your snacks! Turn your volume up! Grab your snacks! And enjoy!
+                    Grab your snacks! Turn your volume up! And enjoy!
                 </span>
             </HeaderStyled>
         </Link>
