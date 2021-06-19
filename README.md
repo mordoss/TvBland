@@ -3,15 +3,15 @@
 The app is for challenge purpose
 
 - Features 
- - Sort based on date and rating
- - Pagination
- - Interactive 3d objects
+  - Sort based on date and rating
+  - Pagination
+  - Interactive 3d objects
 
 - Main stack
- - React
- - TypeScipt
- - styled-componenets
- - react-three-fiber
+   - React
+   - TypeScipt
+   - styled-componenets
+   - react-three-fiber
 
  [Live Demo](https://tvbland.web.app/)
  
