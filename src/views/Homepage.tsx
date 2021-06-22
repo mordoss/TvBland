@@ -30,7 +30,7 @@ const Homepage: React.FC = () => {
 
     const [episodes, setEpisodes] = useState<IState['episodes']>([]);
 
-    // api date set in state for easier handling
+    // api data set in state for easier handling
     useEffect(() => {
         if (data) {
             setEpisodes(data);
